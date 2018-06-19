@@ -434,7 +434,7 @@ window.onload = function () {
     }
 
 
-    move(4);
+
 
     function move(index) {
         //图标文字的变化,点击时先归元,再随点击变化
