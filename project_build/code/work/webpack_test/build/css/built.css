@@ -1,0 +1,22 @@
+ #box1 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  background-image: url(../images/2a5a4f4b7440b0796e03c8a8fd8b3f2a.jpg);
+  background-size: 100%;
+}
+#box1 p {
+  color: white;
+  opacity: 0.8;
+  text-shadow: 1px 1px 5px lightgrey;
+}
+#box2 {
+  width: 150px;
+  height: 150px;
+  background-color: blueviolet;
+  background-image: url(../images/d917913e27f516320f9ed38536619ee3.jpg);
+  background-size: 100%;
+}
+#box2 p {
+  color: antiquewhite;
+}

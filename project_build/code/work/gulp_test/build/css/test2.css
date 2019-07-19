@@ -1,0 +1,12 @@
+#box2 {
+  width: 150px;
+  height: 150px;
+  background-color: blueviolet;
+}
+#box2 p {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  background-color: antiquewhite;
+}
